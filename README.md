@@ -1,5 +1,4 @@
 # webpage
-<!doctype html>
 <html>
 
 <head>
@@ -264,7 +263,4 @@
 
 </html>
 
-</title>
-</head>
 
-</html>
