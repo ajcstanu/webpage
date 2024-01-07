@@ -1,6 +1,5 @@
 # webpage
 <html>
-
 <head>
     <title> Welcom to my Web Development page </title>
 
